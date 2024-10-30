@@ -1,0 +1,13 @@
+# Printers is no longer showing up in the list of available printers so, we need to do the following steps
+Check the printer’s cable and make sure it’s connected from printer to PC
+Reinstall and update the printer driver files
+make sure your connected printer is set to be the default printer.
+For more information please check this website
+https://cybertechnosys.com/how-to-add-printer-not-listed/
+
+Temporarily disable windows firewall and antivirus  could be reason to block network connection.
+Add printer manually 
+Restarting your printer.
+For more information please check this website
+https://www.fortect.com/windows-optimization-tips/how-to-fix-network-printer-not-showing-up-in-windows-11-10/
+
